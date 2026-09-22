@@ -1,0 +1,12 @@
+{
+  "name": "meu-projeto-node",
+  "version": "1.0.0",
+  "description": "Projeto Node.js de exemplo com variáveis e funções",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["nodejs", "exemplo"],
+  "author": "Vinick",
+  "license": "MIT"
+}
