@@ -45,7 +45,7 @@ node src/index.js
 npm start
 ```
 
-## Saída esperada
+## Saída Esperada
 
 O script exibe no console:
 - Uma saudação personalizada
